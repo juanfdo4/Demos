@@ -1,12 +1,10 @@
-#Test XUnit
+# Test XUnit
 
-##Visual Studio Code
+## Visual Studio Code
 
 Lo podemos descargar de la pagina principal:
 
-```
 [Visual Studio CODE](https://code.visualstudio.com/)
-```
 
 Para ello vamos a crear un proyecto por consola:
 
@@ -34,3 +32,4 @@ Running 'dotnet restore' on D:\GIT\Demos\Test XUnit\Test XUnit.csproj...
 Restore succeeded.
 
 ## Ahora vamos a instalar lo necesario para compilar
+
