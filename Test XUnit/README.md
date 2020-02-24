@@ -32,3 +32,5 @@ Running 'dotnet restore' on D:\GIT\Demos\Test XUnit\Test XUnit.csproj...
   Restauración realizada en 214,1 ms para D:\GIT\Demos\Test XUnit\Test XUnit.csproj.
 
 Restore succeeded.
+
+## Ahora vamos a instalar lo necesario para compilar
