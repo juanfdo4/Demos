@@ -5,7 +5,7 @@
 Lo podemos descargar de la pagina principal:
 
 ```
-[Visual Studio CODE(https://code.visualstudio.com/)
+[Visual Studio CODE](https://code.visualstudio.com/)
 ```
 
 Para ello vamos a crear un proyecto por consola:
