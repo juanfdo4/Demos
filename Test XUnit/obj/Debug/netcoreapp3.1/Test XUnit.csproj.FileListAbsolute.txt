@@ -1,0 +1,11 @@
+D:\GIT\Demos\Test XUnit\bin\Debug\netcoreapp3.1\Test XUnit.exe
+D:\GIT\Demos\Test XUnit\bin\Debug\netcoreapp3.1\Test XUnit.deps.json
+D:\GIT\Demos\Test XUnit\bin\Debug\netcoreapp3.1\Test XUnit.runtimeconfig.json
+D:\GIT\Demos\Test XUnit\bin\Debug\netcoreapp3.1\Test XUnit.runtimeconfig.dev.json
+D:\GIT\Demos\Test XUnit\bin\Debug\netcoreapp3.1\Test XUnit.dll
+D:\GIT\Demos\Test XUnit\bin\Debug\netcoreapp3.1\Test XUnit.pdb
+D:\GIT\Demos\Test XUnit\obj\Debug\netcoreapp3.1\Test XUnit.csprojAssemblyReference.cache
+D:\GIT\Demos\Test XUnit\obj\Debug\netcoreapp3.1\Test XUnit.AssemblyInfoInputs.cache
+D:\GIT\Demos\Test XUnit\obj\Debug\netcoreapp3.1\Test XUnit.AssemblyInfo.cs
+D:\GIT\Demos\Test XUnit\obj\Debug\netcoreapp3.1\Test XUnit.dll
+D:\GIT\Demos\Test XUnit\obj\Debug\netcoreapp3.1\Test XUnit.pdb
